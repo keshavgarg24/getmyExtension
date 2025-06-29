@@ -81,7 +81,7 @@ const Index = () => {
         </div>
         
         <a 
-          href="https://github.com" 
+          href="https://github.com/keshavgarg24/getmyExtension" 
           target="_blank" 
           rel="noopener noreferrer"
           className="text-gray-400 hover:text-white transition-all duration-500 group animate-slide-in-right"

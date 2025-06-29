@@ -99,39 +99,25 @@ const Index = () => {
             <div className="space-y-6">
               <div className="inline-flex items-center gap-2 px-4 py-2 bg-gray-900/50 border border-gray-800 rounded-full backdrop-blur-sm hover:bg-gray-900/70 transition-all duration-300 animate-bounce-gentle">
                 <div className="w-2 h-2 bg-green-400 rounded-full animate-pulse-fast" />
-                <span className="text-sm text-gray-300">Coming Soon</span>
+                <span className="text-sm text-gray-300">Coming Soon - Early Access</span>
               </div>
               
               <h1 className="text-4xl md:text-6xl font-bold leading-tight animate-text-reveal">
-                <span className="inline-block animate-slide-in-up delay-100">Discover the</span>
+                <span className="inline-block animate-slide-in-up delay-100">find</span>
                 <br />
                 <span className="bg-gradient-to-r from-yellow-400 to-green-400 bg-clip-text text-transparent inline-block animate-slide-in-up delay-200 hover:scale-105 transition-transform duration-300">
-                  perfect extension
+                 EXTENSION
                 </span>
                 <br />
                 <span className="inline-block animate-slide-in-up delay-300">for everything</span>
               </h1>
               
               <p className="text-xl text-gray-400 leading-relaxed max-w-lg animate-fade-in-up delay-400">
-                Your one-stop platform to find browser extensions for any need. 
-                From productivity to entertainment, we've got you covered.
+                Your all-in-one platform to discover and share the best browser extensions — for anything from productivity to entertainment. 100% free, open-source, and built by the community, for the community.
               </p>
             </div>
             
             <div className="flex flex-col sm:flex-row gap-4 animate-fade-in-up delay-500">
-              <div className="flex items-center gap-3 px-4 py-3 bg-gray-900/30 border border-gray-800/50 rounded-lg backdrop-blur-sm hover:bg-gray-900/50 hover:border-yellow-400/30 transition-all duration-300 hover:scale-105 cursor-pointer">
-                <div className="w-8 h-8 bg-gradient-to-r from-yellow-400/20 to-green-400/20 rounded-full flex items-center justify-center animate-spin-slow">
-                  <span className="text-yellow-400 text-sm font-bold">✨</span>
-                </div>
-                <span className="text-gray-300">Curated Extensions</span>
-              </div>
-              
-              <div className="flex items-center gap-3 px-4 py-3 bg-gray-900/30 border border-gray-800/50 rounded-lg backdrop-blur-sm hover:bg-gray-900/50 hover:border-green-400/30 transition-all duration-300 hover:scale-105 cursor-pointer">
-                <div className="w-8 h-8 bg-gradient-to-r from-green-400/20 to-yellow-400/20 rounded-full flex items-center justify-center animate-bounce-subtle">
-                  <span className="text-green-400 text-sm font-bold">⚡</span>
-                </div>
-                <span className="text-gray-300">Smart Recommendations</span>
-              </div>
             </div>
           </div>
 
